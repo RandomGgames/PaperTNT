@@ -1,6 +1,10 @@
 {
 	"pack": {
-		"pack_format": 61,
-		"description": "Changes the TNT recipe to use paper instead of sand. Created by RandomGgames."
+		"description": "Changes the TNT recipe to use paper instead of sand. Created by RandomGgames.",
+		"pack_format": 88,
+		"supported_formats": [
+			48,
+			88
+		]
 	}
 }
